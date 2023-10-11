@@ -1,5 +1,5 @@
 # rknn-multi-threaded-3588
-RKNN Multi threades for Orange Pi5, 5B and 5 Plus
+RKNN Multi threades for Orange Pi 5, 5B and 5 Plus
 
 This is a copy (not forked) from this github https://github.com/leafqycc/rknn-multi-threaded
 
@@ -32,3 +32,9 @@ Here is demo i run on Orange Pi 5 PLus with HDMI In
 
 
 ![orangepi5plus](https://github.com/thanhtantran/rknn-multi-threaded-3588/assets/5319910/692c44dd-980c-4435-b67e-692586439bea)
+
+## Acknowledgements
+- https://github.com/ultralytics/yolov5
+- https://github.com/rockchip-linux/rknn-toolkit2
+- https://github.com/airockchip/rknn_model_zoo
+- https://github.com/leafqycc/rknn-multi-threaded
