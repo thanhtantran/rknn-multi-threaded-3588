@@ -27,3 +27,8 @@ The rkcat.sh can be running with
 ` sudo bash rkcat.sh ` 
 
 to check the NPU performance
+
+Here is demo i run on Orange Pi 5 PLus with HDMI In
+
+
+![orangepi5plus](https://github.com/thanhtantran/rknn-multi-threaded-3588/assets/5319910/692c44dd-980c-4435-b67e-692586439bea)
