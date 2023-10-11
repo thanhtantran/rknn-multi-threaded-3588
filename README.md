@@ -3,14 +3,14 @@ RKNN Multi threades for Orange Pi5, 5B and 5 Plus
 
 This is a copy (not forked) from this github https://github.com/leafqycc/rknn-multi-threaded
 
-I've modified some files to use on Orange Pi 5, 5B and 5 Plus
+I've modified some files to use it on Orange Pi 5, 5B and 5 Plus
 
-Depend on your Python, you need to download the RKNN Toolkit Lite 2 from this https://github.com/rockchip-linux/rknn-toolkit2
+Depend on your Python version, you need to download the RKNN Toolkit Lite 2 from this https://github.com/rockchip-linux/rknn-toolkit2
 Included in this github is the wheel version 1.5.2 for Python 3.9. Install it by typing command
 
 ` pip install rknn_toolkit_lite2-1.5.2-cp39-cp39-linux_aarch64.whl `
 
-Maybe you also need to copy the file librknnrt.so to /usr/lib too, and install opencv module
+Maybe you also need to copy the file ` librknnrt.so ` to /usr/lib too, and install opencv module
 
 ` pip install opencv-python `
 
