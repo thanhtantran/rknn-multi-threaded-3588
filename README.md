@@ -18,9 +18,14 @@ Check your Camera used in /dev/video0 or /dev/video1, and edit the code in main.
 
 ` cap = cv2.VideoCapture(0) `
 
-the run 
+then run 
 
 `python main.py`
+
+If you want to increase the frame rate, edit this
+
+` # Number of threads, increasing can improve frame rate
+TPEs = 3`
 
 The rkcat.sh can be running with 
 
