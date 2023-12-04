@@ -22,10 +22,9 @@ then run
 
 `python main.py`
 
-If you want to increase the frame rate, edit this
+If you want to increase the frame rate or image size, edit this line in func.py
 
-` # Number of threads, increasing can improve frame rate
-TPEs = 3`
+`OBJ_THRESH, NMS_THRESH, IMG_SIZE = 0.25, 0.45, 640`
 
 The rkcat.sh can be running with 
 
